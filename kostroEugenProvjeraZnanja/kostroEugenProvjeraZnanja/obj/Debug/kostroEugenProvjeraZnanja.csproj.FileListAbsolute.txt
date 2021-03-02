@@ -1,0 +1,11 @@
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanja\kostroEugenProvjeraZnanja\bin\Debug\kostroEugenProvjeraZnanja.exe.config
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanja\kostroEugenProvjeraZnanja\bin\Debug\kostroEugenProvjeraZnanja.exe
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanja\kostroEugenProvjeraZnanja\bin\Debug\kostroEugenProvjeraZnanja.pdb
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanja\kostroEugenProvjeraZnanja\obj\Debug\kostroEugenProvjeraZnanja.csprojAssemblyReference.cache
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanja\kostroEugenProvjeraZnanja\obj\Debug\kostroEugenProvjeraZnanja.Form1.resources
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanja\kostroEugenProvjeraZnanja\obj\Debug\kostroEugenProvjeraZnanja.Form2.resources
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanja\kostroEugenProvjeraZnanja\obj\Debug\kostroEugenProvjeraZnanja.Properties.Resources.resources
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanja\kostroEugenProvjeraZnanja\obj\Debug\kostroEugenProvjeraZnanja.csproj.GenerateResource.cache
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanja\kostroEugenProvjeraZnanja\obj\Debug\kostroEugenProvjeraZnanja.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanja\kostroEugenProvjeraZnanja\obj\Debug\kostroEugenProvjeraZnanja.exe
+C:\Users\Učenik 12\source\repos\kostroEugenProvjeraZnanja\kostroEugenProvjeraZnanja\obj\Debug\kostroEugenProvjeraZnanja.pdb
